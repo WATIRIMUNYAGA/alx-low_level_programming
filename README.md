@@ -1,1 +1,1 @@
-0x03. C - Debugging
+pointers_arrays_strings
